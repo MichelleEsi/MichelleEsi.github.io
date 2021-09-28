@@ -1,0 +1,32 @@
+h1{
+    color:rgb(7, 1, 14);
+    text-align: center;
+}
+h2{
+    color: rgb(7, 1, 14);
+    text-align: center;
+}
+.content-area{
+    border-top: 3px solid black;
+}
+.main-area{
+    width: 65%;
+    float: right;
+}
+
+.sidebar{
+    width: 35%;
+    float: right;
+}
+.main-job{
+    color: rgb(7, 1, 14);
+    text-align: center;
+}
+
+
+body {
+    background-color: rgb(214, 216, 218);
+}
+
+}
+
